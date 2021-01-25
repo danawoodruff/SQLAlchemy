@@ -91,4 +91,4 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/tem
 
 * The null hypothesis is that there is no statistically significant difference in the mean of June and December temperatures in Hawaii.
 
-* The t-statistic value is 31.6 and the p-value is 3.9e-191 so the null hypothesis is rejected. There is a statistically significant difference between the June and the December mean temperatures in Hawaii. 
+* The t-statistic value is 31.6 and the p-value is 3.9e-191 so the null hypothesis is rejected. There is a statistically significant difference between the June and the December mean temperatures in Hawaii.
