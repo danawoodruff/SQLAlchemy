@@ -36,7 +36,7 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
 
   * Plot the results as a histogram.
   
-    ![histogram](Images/Temperature Histogram.png)
+    ![histogram](Images/Temperature.png)
 
 ## Climate App
 
