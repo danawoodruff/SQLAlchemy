@@ -42,8 +42,6 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
   <img src="Images/Temperature.png">
 </p> 
 
-    ![histogram](Images/Temperature.png)
-
 ## Climate App
 
 A Flask API is designed based on the previous queries.
