@@ -20,7 +20,7 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
 
 * The results are plotted in Matplotlib.
 
-  ![precipitation](Images/precipitation.png=300x)
+  ![precipitation](Images/precipitation.png =300x300)
 
 * Pandas is used to generate the summary statistics for the precipitation data.
 
