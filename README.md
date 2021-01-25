@@ -24,8 +24,6 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
   <img width="432" height="259" src="Images/precipitation.png">
 </p>
 
-  ![precipitation](Images/precipitation.png)
-
 * Pandas is used to generate the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -40,6 +38,10 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
 
   * Plot the results as a histogram.
   
+ <p align="center">
+  <img src="Images/Temperature.png">
+</p> 
+
     ![histogram](Images/Temperature.png)
 
 ## Climate App
