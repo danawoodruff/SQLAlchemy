@@ -10,7 +10,7 @@ Python, SQLAlchemy, and Matplotlib are used to do basic climate analysis and dat
 
 * SQLAlchemy `create_engine` connects to the sqlite database.
 
-
+Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/climate_starter.ipynb
 
 ### Precipitation Analysis
 
@@ -81,6 +81,8 @@ A Flask API is designed based on the previous queries.
 ### Temperature Analysis I
 
 Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
+
+Link to file: 
 
 * A paired t-test is designed to compare the means of the same group under two separate scenarios. 
  -An unpaired t-test compares the means of two unrelated groups.
