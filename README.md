@@ -44,7 +44,7 @@ Link to file: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/cli
 
 ## Climate App
 
-A Flask API is designed based on the previous queries.
+A Flask API is designed based on the previous queries.<br>
 Link: https://github.com/danawoodruff/SQLAlchemy-challenge/blob/main/app.py
 
 ### Routes
