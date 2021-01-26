@@ -48,15 +48,11 @@ A Flask API is designed based on the previous queries.
 
 ### Routes
 
-* `/`
-
-  * Home page: List all available routes.
+* Home page: List all available routes.
 
 * `/api/v1.0/precipitation`
 
-  * Convert the query results to a dictionary using `date` as the key and `prcp` as the value.
-
-  * Return the JSON representation of your dictionary.
+  * Return the JSON representation of Precipitation observations.
 
 * `/api/v1.0/stations`
 
@@ -74,12 +70,6 @@ A Flask API is designed based on the previous queries.
   * When given the start only, calculate `TMIN`, `TAVG`, and `TMAX` for all dates greater than and equal to the start date.
 
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
-
-## Hints
-
-* You will need to join the station and measurement tables for some of the queries.
-
-* Use Flask `jsonify` to convert your API data into a valid JSON response object.
 
 - - -
 ### Temperature Analysis I
