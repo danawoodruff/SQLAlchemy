@@ -1,6 +1,6 @@
 ## Surfs Up!
 
-This exercise utlizes Pandas, SQLAlchemy, SQLite, and Flask to analyze weather data in Hawaii.
+This exercise utIlizes Pandas, SQLAlchemy, SQLite, and Flask to analyze weather data in Hawaii.
 
 ## Climate Analysis and Exploration
 
